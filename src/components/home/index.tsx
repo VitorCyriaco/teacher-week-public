@@ -65,7 +65,7 @@ export function HomePage() {
 
             <header className="w-full max-w-6xl px-4 pt-6 md:pt-8 z-10">
                 <Image
-                    src={"/img/logoSenac.png"}
+                    src={""}//adicione sua logo aqui
                     alt="Logo do Senac"
                     width={96}
                     height={96}
